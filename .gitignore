@@ -1,0 +1,4 @@
+# Reassembled official installers must never be committed.
+*.exe
+/work/
+*.log

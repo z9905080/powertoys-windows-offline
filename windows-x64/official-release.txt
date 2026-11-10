@@ -1,0 +1,9 @@
+name: Release v0.102.3101.0
+tag: v0.102.3101
+published: 2026-11-06T09:54:30Z
+source: https://github.com/microsoft/PowerToys/releases/tag/v0.102.3101
+per-user-x64: PowerToysUserSetup-0.102.3101.0-x64.exe
+per-user-x64-bytes: 323951160
+machine-wide-x64: PowerToysSetup-0.102.3101.0-x64.exe
+machine-wide-x64-bytes: 323977120
+notes: Official SHA256 hashes were taken from the Installer Hashes table in the release notes. ARM64 installers are not included in this bundle.
